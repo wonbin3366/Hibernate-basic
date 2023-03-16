@@ -1,7 +1,7 @@
-package shop.mtcoding.hiberapp.model;
+// package shop.mtcoding.hiberapp.model;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+// import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface UserJpaRepository extends JpaRepository<User, Long> {
+// public interface UserJpaRepository extends JpaRepository<User, Long> {
 
-}
+// }
